@@ -16,3 +16,16 @@ To provide data-driven insights through an interactive Power BI dashboard to sup
   
 
 - Dashboard Link : <a href="https://github.com/ketan3580/HR-Analytics-Dashboard-Employee-Attrition-Analysis/blob/main/Screenshot%20-%20HR%20Dashboard.png">View Dashboard</a>
+
+## Process
+- Verified dataset for missing values, duplicates, and anomalies.
+
+- Cleaned and standardized data types and categorical values.
+
+- Created calculated measures using DAX.
+
+- Built pivot summaries aligned with business KPIs.
+
+Designed interactive dashboard with slicers and filters.
+
+Generated insights and validated results.
