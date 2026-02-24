@@ -29,3 +29,8 @@ To provide data-driven insights through an interactive Power BI dashboard to sup
 - Designed interactive dashboard with slicers and visuals.
 
 - Generated insights and validated results.
+
+
+  ## Dashboard
+  <img width="1162" height="647" alt="Screenshot - HR Dashboard" src="https://github.com/user-attachments/assets/de14cb18-0a5e-4885-b646-e99b01a46110" />
+
