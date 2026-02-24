@@ -1,2 +1,2 @@
-# HR-Analytics-Dashboard---Employee-Attrition-Analysis-
-Interactive HR Analytics Dashboard built using Excel and Power BI to analyze employee attrition trends. Includes data cleaning, KPI creation (Attrition Rate, Avg Salary, Tenure), DAX measures, and interactive visuals to identify key factors affecting employee turnover.
+# HR Analytics : Employee Attrition Analysis (Using PowerBI and MS Excel)
+## To provide data-driven insights through an interactive Power BI dashboard to support better HR retention strategies.
