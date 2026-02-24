@@ -34,3 +34,19 @@ To provide data-driven insights through an interactive Power BI dashboard to sup
 ## Dashboard
 <img width="1162" height="647" alt="Screenshot - HR Dashboard" src="https://github.com/user-attachments/assets/de14cb18-0a5e-4885-b646-e99b01a46110" />
 
+## Project Insights
+
+- Highest attrition observed in the 26–35 age group.
+
+- Employees in lower salary slabs show higher turnover.
+
+- Certain job roles contribute significantly to attrition.
+
+- Early-tenure employees are more likely to leave.
+
+- Salary and job satisfaction influence employee retention.
+
+## Final Conclusion
+
+The analysis reveals that attrition is higher among early-career employees and lower salary groups.
+/nThe dashboard provides data-driven insights that help HR teams identify risk areas and implement targeted retention strategies to improve workforce stability.
