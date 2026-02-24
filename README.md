@@ -3,6 +3,7 @@
 To provide data-driven insights through an interactive Power BI dashboard to support better HR retention strategies.
 
 ## Questions (KPIs)
+
 Q.1 : What is the attrition rate to total count of employee 
 Q.2 : What does the average age indicate about workforce maturity?
 Q.3 : What is the current workforce size?
