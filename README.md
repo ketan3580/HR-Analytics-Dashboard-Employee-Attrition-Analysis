@@ -13,5 +13,6 @@ To provide data-driven insights through an interactive Power BI dashboard to sup
 - Education background that has highest attrition?
 - Compare attrition by gender , Is there any gender imbalance in turnover?
 - Highest attrition by department & Job Role
+  
 
 - Dashboard Link : <a href "https://github.com/ketan3580/HR-Analytics-Dashboard-Employee-Attrition-Analysis/blob/main/Screenshot%20-%20HR%20Dashboard.png">View Dashboard</a>
