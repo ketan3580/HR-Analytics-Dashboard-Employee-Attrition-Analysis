@@ -17,7 +17,7 @@ To provide data-driven insights through an interactive Power BI dashboard to sup
 - Highest attrition by department & Job Role
   
 
-- Dashboard Link : <a href="https://github.com/ketan3580/HR-Analytics-Dashboard-Employee-Attrition-Analysis/blob/main/Screenshot%20-%20HR%20Dashboard.png">View Dashboard</a>
+- Dashboard Link : <a href="https://github.com/ketan3580/HR-Analytics-Dashboard-Employee-Attrition-Analysis/blob/main/HR%20Analytics%20Dashboard%20Image%20.jpg">View Dashboard</a>
 
 ## Process
 - Checked and cleaned data for missing values and inconsistencies.
