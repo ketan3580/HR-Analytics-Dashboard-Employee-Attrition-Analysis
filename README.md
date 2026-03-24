@@ -32,7 +32,7 @@ To provide data-driven insights through an interactive Power BI dashboard to sup
 
 
 ## Dashboard
-<img width="1162" height="647" alt="Screenshot - HR Dashboard" src="https://github.com/user-attachments/assets/de14cb18-0a5e-4885-b646-e99b01a46110" />
+<img width="1147" height="650" alt="image" src="https://github.com/user-attachments/assets/e72be646-373e-44de-9caf-96ff175a6a62" />
 
 ## Project Insights
 
